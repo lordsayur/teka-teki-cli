@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "teka teki cli",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lordsayur/teka-teki-cli.git"
+  },
   "type": "module",
   "scripts": {
     "start": "node ."
